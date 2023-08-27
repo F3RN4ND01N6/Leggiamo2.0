@@ -1,0 +1,51 @@
+  <div class="navbar-lateral full-reset">
+    <div class="visible-xs font-movile-menu mobile-menu-button"></div>
+    <div class="full-reset container-menu-movile custom-scroll-containers">
+      <div class="logo full-reset all-tittles">
+        <i class="visible-xs zmdi zmdi-close pull-left mobile-menu-button"
+          style="line-height: 55px; cursor: pointer; padding: 0 10px; margin-left: 7px;"></i>
+        Leggiamo
+      </div>
+      <div class="full-reset" style="background-color:#2B3D51; padding: 10px 0; color:#fff;">
+        <figure>
+          <img src="assets/img/logo.png" alt="Biblioteca" class="img-responsive center-box" style="width:55%;">
+        </figure>
+        <p class="text-center" style="padding-top: 15px;">Leggiamo</p>
+      </div>
+      <div class="full-reset nav-lateral-list-menu">
+        <ul class="list-unstyled">
+          <li><a href="home.html"><i class="fa-solid fa-gear"></i>&nbsp;&nbsp; Configuraciones</a></li>
+          <li>
+            <div class="dropdown-menu-button"><i class="fa-solid fa-book"></i>&nbsp;&nbsp; Libros<i
+                class="zmdi zmdi-chevron-down pull-right zmdi-hc-fw"></i></div>
+            <! --seccion de libreria -->
+              <ul class="list-unstyled">
+                <li><a href="####"><i class="fa-solid fa-heart"></i>&nbsp;&nbsp; Romance</a>
+                </li>
+                <li><a href="####"><i class="fa-solid fa-bomb"></i>&nbsp;&nbsp; Accion</a>
+                </li>
+                <li><a href="####"><i class="fa-solid fa-skull"></i>&nbsp;&nbsp; Miedo, Terror</a>
+                </li>
+                <li><a href="####"><i class="fa-solid fa-mask"></i>&nbsp;&nbsp; Suspenso</a>
+                </li>
+                <li><a href="####"><i class="fa-solid fa-lightbulb"></i>&nbsp;&nbsp; Intriga</a>
+                </li>
+                <li><a href="####"><i class="fa-solid fa-person-circle-question"></i>&nbsp;&nbsp; Misterio</a>
+                </li>
+                <li><a href="####"><i class="fa-solid fa-passport"></i>&nbsp;&nbsp; Documental</a>
+                </li>
+              </ul>
+          </li>
+          <li>
+            <div class="dropdown-menu-button"><i class="fa-solid fa-language"></i>&nbsp;&nbsp; Idiomas <i
+                class="zmdi zmdi-chevron-down pull-right zmdi-hc-fw"></i></div>
+            <ul class="list-unstyled">
+              <li><a href="#####"><i class="fa-solid fa-book"></i>&nbsp;&nbsp; Ingles</a></li>
+              <li><a href="#####"><i class="fa-solid fa-book"></i>&nbsp;&nbsp; aleman</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
